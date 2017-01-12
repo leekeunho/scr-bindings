@@ -1,0 +1,21 @@
+<Project DefaultTargets="default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+
+	<Import Project="$(TP)\Borland.Internal.Targets"/>
+
+
+	<ItemGroup>
+
+		<Projects Include="
+			bcbshlctrls.proj;
+			dclshlctrls.proj
+		"/>
+
+	</ItemGroup>
+
+	<Target Name="default" DependsOnTargets="buildresources;buildprojects"/>
+
+	<Target Name="clean" DependsOnTargets="cleanresources;cleanprojects"/>
+
+
+</Project>

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding
+END
+dclsmpedit150_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/dclsmpedit150_Icon.ico
+END
+dclsmpedit150.res
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/dclsmpedit150.res
+END
+BufferList.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/BufferList.pas
+END
+BaseBindings.pas
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/BaseBindings.pas
+END
+BufferListForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/BufferListForm.pas
+END
+SaveKeyMacro.pas
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/SaveKeyMacro.pas
+END
+dclsmpedit150.dpk
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/dclsmpedit150.dpk
+END
+dclsmpedit150.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/dclsmpedit150.dproj
+END
+BufferListForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/BufferListForm.dfm
+END
+SaveKeyMacro.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/ToolsAPI/Editor%20KeyBinding/SaveKeyMacro.dfm
+END

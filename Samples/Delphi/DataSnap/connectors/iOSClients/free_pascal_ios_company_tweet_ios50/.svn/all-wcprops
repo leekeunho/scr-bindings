@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50
+END
+DSFPCCallbackChannelManager.pas
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSFPCCallbackChannelManager.pas
+END
+FollowingUsersForm.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FollowingUsersForm.lfm
+END
+MainForm.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/MainForm.lfm
+END
+DBXConnectionEventListener.pas
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXConnectionEventListener.pas
+END
+CompanyTweet.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CompanyTweet.dproj
+END
+FollowingTweetsForm.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FollowingTweetsForm.lfm
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/build.xml
+END
+ClientClassesUnit1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/ClientClassesUnit1.pas
+END
+CompanyTweet_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CompanyTweet_Icon.ico
+END
+FPCProxyRegister.pas
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FPCProxyRegister.pas
+END
+DBXFPCCommon.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXFPCCommon.pas
+END
+DSAdmin.pas
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSAdmin.pas
+END
+cmd.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/cmd.mp3
+END
+CompanyTweet.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CompanyTweet.dpr
+END
+CTCallback.pas
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CTCallback.pas
+END
+DBXFPCCallback.pas
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXFPCCallback.pas
+END
+SettingsForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/SettingsForm.pas
+END
+ProxyRegister.pas
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/ProxyRegister.pas
+END
+DBXJsonTools.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXJsonTools.pas
+END
+MenuForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/MenuForm.pas
+END
+DBXConnection.pas
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXConnection.pas
+END
+DBXFPCJSON.pas
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXFPCJSON.pas
+END
+DSRestParameter.pas
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSRestParameter.pas
+END
+FollowingUsersForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FollowingUsersForm.pas
+END
+DSRESTParameterMetaData.pas
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSRESTParameterMetaData.pas
+END
+DBXDefaultFormatter.pas
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXDefaultFormatter.pas
+END
+MainForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/MainForm.pas
+END
+DSProxy.pas
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSProxy.pas
+END
+LockedStringListU.pas
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/LockedStringListU.pas
+END
+DBXValue.pas
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DBXValue.pas
+END
+MenuForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/MenuForm.dfm
+END
+CompanyTweet.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CompanyTweet.pas
+END
+SettingsForm.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/SettingsForm.lfm
+END
+FollowingTweetsForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FollowingTweetsForm.pas
+END
+FPCSound.pas
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FPCSound.pas
+END
+FPCStrings.pas
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/FPCStrings.pas
+END
+MenuForm.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/MenuForm.lfm
+END
+DSRESTConnection.pas
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSRESTConnection.pas
+END
+CompanyTweet.res
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/CompanyTweet.res
+END
+dsrestdefines.inc
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/dsrestdefines.inc
+END
+DSRESTTypes.pas
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/378/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/free_pascal_ios_company_tweet_ios50/DSRESTTypes.pas
+END

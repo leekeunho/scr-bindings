@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules
+END
+LookupRDM.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/LookupRDM.dfm
+END
+MethodsServerModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MethodsServerModule.pas
+END
+MasterDetail.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MasterDetail.dfm
+END
+MainServerModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MainServerModule.dfm
+END
+EmployeeRDM.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/EmployeeRDM.dfm
+END
+ServerBatch.pas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/ServerBatch.pas
+END
+DataSetDM1.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM1.dfm
+END
+DataSetDM2.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM2.dfm
+END
+LookupRDM.pas
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/LookupRDM.pas
+END
+DataSetDM3.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM3.dfm
+END
+DataSetDM5.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM5.dfm
+END
+MasterDetail.pas
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MasterDetail.pas
+END
+DataSetDM6.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM6.dfm
+END
+MainServerModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MainServerModule.pas
+END
+EmployeeRDM.pas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/EmployeeRDM.pas
+END
+MethodsServerModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/MethodsServerModule.dfm
+END
+DataSetDM1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM1.pas
+END
+DataSetDM2.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM2.pas
+END
+DataSetDM3.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM3.pas
+END
+DataSetDM5.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM5.pas
+END
+ServerBatch.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/ServerBatch.dfm
+END
+DataSetDM6.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/ServerModules/DataSetDM6.pas
+END

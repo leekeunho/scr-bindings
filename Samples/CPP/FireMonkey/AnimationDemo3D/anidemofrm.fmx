@@ -1,0 +1,249 @@
+object frmAniDemo: TfrmAniDemo
+  Left = 497
+  Top = 171
+  BiDiMode = bdLeftToRight
+  Caption = 'FireMonkey 3D Animation'
+  ClientHeight = 627
+  ClientWidth = 824
+  Position = poDesigned
+  Transparency = False
+  Visible = False
+  Color = claGray
+  Left = 497
+  Top = 171
+  object Light1: TLight
+    Position.Point = '(-4.27029514312744,-8.56721115112305,3.03586989502946E-6)'
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    Opacity = 1.000000000000000000
+    LightType = ltDirectional
+    Quanternion = '(0,0,0,1)'
+  end
+  object ObjectLayer1: TLayer3D
+    Position.Point = '(-4,0,0)'
+    Width = 9.489999771118164000
+    Height = 5.896999835968018000
+    Depth = 0.009999999776482582
+    Opacity = 1.000000000000000000
+    StyleLookup = 'backgroundstyle'
+    Quanternion = '(0,0,0,1)'
+    object Background1: TLayout
+      Width = 475.000000000000000000
+      Height = 295.000000000000000000
+    end
+    object Path1: TPath
+      Position.Point = '(-176,327)'
+      Width = 520.000000000000000000
+      Height = 97.000000000000000000
+      StrokeThickness = 2.000000000000000000
+      Data.Path = {
+        19000000000000007B147640A2455E4002000000E5D09A4054E3C44102000000
+        CBA1D14166E60B420200000000802B42F0A7F64102000000FABE8B42CFF7C041
+        02000000F252A4420E2D1CC102000000B633954202AB15C202000000CFF77F42
+        986E98C2020000009CC4BD41C5A0BAC202000000426015C164FBA0C202000000
+        811551C21D5A7FC20200000002AB8DC2426001C10200000048E15CC28B6C1642
+        020000009A990FC23749BC42020000000C02C341DF8FEC42020000007D3F9342
+        C1CAC04202000000689104436D678C420200000089811D43A470FDC002000000
+        3DAA05439A198FC202000000CBA1D34289E111C302000000986ECA412F1D31C3
+        02000000105820C2140E12C3020000004260BFC2C14AEFC202000000DBF901C3
+        CD4C5CC202000000C520FEC2FCA93741}
+    end
+    object RoundRect1: TRoundRect
+      Position.Point = '(121.916999816895,198.544006347656)'
+      Width = 130.000000000000000000
+      Height = 25.000000000000000000
+      object PathAni: TPathAnimation
+        AnimationType = atInOut
+        AutoReverse = True
+        Enabled = True
+        Duration = 3.000000000000000000
+        Interpolation = itCubic
+        Loop = True
+        Path.Path = {
+          19000000000000007B147640A2455E4002000000E5D09A4054E3C44102000000
+          CBA1D14166E60B420200000000802B42F0A7F64102000000FABE8B42CFF7C041
+          02000000F252A4420E2D1CC102000000B633954202AB15C202000000CFF77F42
+          986E98C2020000009CC4BD41C5A0BAC202000000426015C164FBA0C202000000
+          811551C21D5A7FC20200000002AB8DC2426001C10200000048E15CC28B6C1642
+          020000009A990FC23749BC42020000000C02C341DF8FEC42020000007D3F9342
+          C1CAC04202000000689104436D678C420200000089811D43A470FDC002000000
+          3DAA05439A198FC202000000CBA1D34289E111C302000000986ECA412F1D31C3
+          02000000105820C2140E12C3020000004260BFC2C14AEFC202000000DBF901C3
+          CD4C5CC202000000C520FEC2FCA93741}
+      end
+      object Text5: TText
+        Align = alCenter
+        Position.Point = '(12,0)'
+        Width = 105.000000000000000000
+        Height = 26.000000000000000000
+        Text = 'Path Animation'
+      end
+    end
+  end
+  object Plane1: TPlane
+    Position.Point = '(5.96000003814697,0.879999995231628,-8.70000008035277E-7)'
+    Width = 8.250000000000000000
+    Height = 8.710000038146973000
+    Depth = 0.009999999776482582
+    Opacity = 1.000000000000000000
+    Material.Diffuse = claSkyblue
+    Quanternion = '(0,0,0,1)'
+    object Text4: TTextLayer3D
+      Position.Point = '(-0.333000004291534,-4.5,1.18799996376038)'
+      Width = 4.500000000000000000
+      Height = 0.916999995708465600
+      Depth = 0.009999999776482582
+      Opacity = 1.000000000000000000
+      StyleLookup = 'backgroundstyle'
+      Font.Size = 23.000000000000000000
+      Text = 'Elastic Interpolation'
+      Quanternion = '(0,0,0,1)'
+    end
+  end
+  object RoundCube1: TRoundCube
+    Position.Point = '(4.15264081954956,-0.686200499534607,5)'
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    Opacity = 1.000000000000000000
+    Material.Diffuse = claSteelblue
+    Quanternion = '(0,0,0,1)'
+    object FloatAnimation3: TFloatAnimation
+      AnimationType = atOut
+      AutoReverse = True
+      Enabled = True
+      Duration = 1.000000000000000000
+      Interpolation = itElastic
+      Loop = True
+      StartValue = 5.000000000000000000
+      StopValue = 0.500000000000000000
+      PropertyName = 'Position.Z'
+    end
+  end
+  object Sphere1: TSphere
+    Position.Point = '(2.53999996185303,-4.67000007629395,6.38000011444092)'
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    Opacity = 1.000000000000000000
+    Material.Diffuse = claSienna
+    Quanternion = '(0,0,0,1)'
+    object ColorAnimation1: TColorAnimation
+      Duration = 0.300000011920929000
+      Trigger = 'IsMouseOver=true'
+      StartValue = claKhaki
+      StopValue = claDarkorange
+      PropertyName = 'Material.Diffuse'
+    end
+    object ColorAnimation2: TColorAnimation
+      Duration = 0.300000011920929000
+      Trigger = 'IsMouseOver=false'
+      StartValue = claDarkorange
+      StopValue = claKhaki
+      PropertyName = 'Material.Diffuse'
+    end
+    object Text1: TTextLayer3D
+      Position.Point = '(0.167999997735023,-1.37000000476837,0.737999975681305)'
+      Width = 3.930000066757202000
+      Height = 0.920000016689300500
+      Depth = 0.009999999776482582
+      Opacity = 1.000000000000000000
+      StyleLookup = 'backgroundstyle'
+      Font.Size = 19.000000000000000000
+      Text = 'Trigger IsMouseOver'
+      Quanternion = '(0,0,0,1)'
+    end
+  end
+  object Sphere2: TSphere
+    Position.Point = '(-2.04999995231628,-4.03999996185303,6.32000017166138)'
+    Width = 1.000000000000000000
+    Height = 1.000000000000000000
+    Depth = 1.000000000000000000
+    Opacity = 1.000000000000000000
+    Material.Diffuse = claDarkseagreen
+    Quanternion = '(0,0,0,1)'
+    object FloatAnimation1: TFloatAnimation
+      AutoReverse = True
+      Enabled = True
+      Duration = 0.500000000000000000
+      Loop = True
+      StopValue = 0.500000000000000000
+      PropertyName = 'Opacity'
+    end
+    object Text2: TTextLayer3D
+      Position.Point = '(-0.0500000007450581,-1.70000004768372,0.649999976158142)'
+      Width = 1.330000042915344000
+      Height = 0.990000009536743200
+      Depth = 0.009999999776482582
+      Opacity = 1.000000000000000000
+      StyleLookup = 'backgroundstyle'
+      Font.Size = 19.000000000000000000
+      Text = 'Loop'
+      Quanternion = '(0,0,0,1)'
+    end
+  end
+  object StrokeCube1: TStrokeCube
+    Position.Point = '(-5.67000007629395,-3.79999995231628,2.65000009536743)'
+    Width = 1.970000028610229000
+    Height = 1.000000000000000000
+    Depth = 1.480000019073486000
+    Opacity = 1.000000000000000000
+    Material.Diffuse = claIndianred
+    Material.Lighting = False
+    Quanternion = '(0,0,0,1)'
+    object Cube1: TCube
+      Width = 1.769999980926514000
+      Height = 0.800000011920929000
+      Depth = 1.000000000000000000
+      Opacity = 1.000000000000000000
+      Material.Diffuse = claViolet
+      Quanternion = '(0,0,0,1)'
+    end
+    object FloatAnimation2: TFloatAnimation
+      AnimationType = atInOut
+      AutoReverse = True
+      Enabled = True
+      Duration = 2.000000000000000000
+      Interpolation = itBack
+      Loop = True
+      StopValue = 360.000000000000000000
+      PropertyName = 'RotationAngle.Y'
+    end
+  end
+  object Text3: TTextLayer3D
+    Position.Point = '(-5.82999992370605,-5.94000005722046,4.01999998092651)'
+    Width = 2.849999904632568000
+    Height = 1.039999961853027000
+    Depth = 0.009999999776482582
+    Opacity = 1.000000000000000000
+    StyleLookup = 'backgroundstyle'
+    Font.Size = 14.000000000000000000
+    Text = 'Back Interpolation and AutoReverse'
+    Quanternion = '(0,0,0,1)'
+  end
+  object Text3D1: TText3D
+    Position.Point = '(0.00999999977648258,2.00999999046326,-5.59999990463257)'
+    Width = 7.440000057220459000
+    Height = 1.519999980926514000
+    Depth = 0.500000000000000000
+    Opacity = 1.000000000000000000
+    TwoSide = True
+    Material.Diffuse = claDarkmagenta
+    Flatness = 2.000000000000000000
+    Sides = [esFront, esBack, esShaft]
+    MaterialBack.Diffuse = claDarkmagenta
+    Text = 'TextLayer3D'
+    Quanternion = '(0,0,0,1)'
+    object FloatAnimation4: TFloatAnimation
+      AnimationType = atInOut
+      AutoReverse = True
+      Enabled = True
+      Duration = 1.000000000000000000
+      Interpolation = itBack
+      Loop = True
+      StopValue = 360.000000000000000000
+      PropertyName = 'RotationAngle.X'
+    end
+  end
+end

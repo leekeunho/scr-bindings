@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient
+END
+CompanyTweetConsole.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/CompanyTweetConsole.dproj
+END
+CompanyTweetConsole_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/CompanyTweetConsole_Icon.ico
+END
+ClientModuleUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/ClientModuleUnit.pas
+END
+CompanyTweetConsole.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/CompanyTweetConsole.dpr
+END
+TweetCallbackUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/TweetCallbackUnit.pas
+END
+ClientModuleUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/ClientModuleUnit.dfm
+END
+MainClientForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/MainClientForm.pas
+END
+CompanyTweetConsole.res
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/CompanyTweetConsole.res
+END
+MainClientForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/MainClientForm.dfm
+END
+ClientClassesUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/CompanyTweetDelphiClient/ClientClassesUnit.pas
+END

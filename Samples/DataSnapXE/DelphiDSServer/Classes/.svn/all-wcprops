@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes
+END
+DBXMetadataHelper.pas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/DBXMetadataHelper.pas
+END
+User.pas
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/User.pas
+END
+BaseObject.pas
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/BaseObject.pas
+END
+Customer.pas
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/Customer.pas
+END
+Department.pas
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/Department.pas
+END
+DSServerLogDB.pas
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/DSServerLogDB.pas
+END
+FileListener.pas
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/FileListener.pas
+END
+BaseServerClass.pas
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/BaseServerClass.pas
+END
+Location.pas
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/Location.pas
+END
+ServerBatch.pas
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/ServerBatch.pas
+END
+ServerBatch.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSServer/Classes/ServerBatch.dfm
+END

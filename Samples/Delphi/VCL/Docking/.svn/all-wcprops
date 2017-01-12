@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking
+END
+DockingUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/DockingUtils.pas
+END
+dockex.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/dockex.dpr
+END
+Readme.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/Readme.htm
+END
+uConjoinHost.pas
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/uConjoinHost.pas
+END
+dockex.res
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/dockex.res
+END
+uConjoinHost.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/uConjoinHost.dfm
+END
+dockex.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/VCL/Docking/dockex.dproj
+END
+uDockForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/uDockForm.pas
+END
+uMain.pas
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/uMain.pas
+END
+uTabHost.pas
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Docking/uTabHost.pas
+END
+dockex_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/dockex_Icon.ico
+END
+uDockForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/uDockForm.dfm
+END
+uMain.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/uMain.dfm
+END
+uTabHost.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Docking/uTabHost.dfm
+END

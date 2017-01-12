@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload
+END
+CloudUpload.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUpload.dpr
+END
+CloudUploadImpl.pas
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUploadImpl.pas
+END
+CloudUpload.ridl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/radstudiodemos/!svn/ver/321/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUpload.ridl
+END
+CloudContainerList.pas
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudContainerList.pas
+END
+CloudUpload.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/radstudiodemos/!svn/ver/321/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUpload.dproj
+END
+CloudDM.pas
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudDM.pas
+END
+CloudContainerList.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/radstudiodemos/!svn/ver/321/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudContainerList.dfm
+END
+CloudUpload.tlb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/radstudiodemos/!svn/ver/321/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUpload.tlb
+END
+CloudDM.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/321/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudDM.dfm
+END
+CloudUpload_TLB.pas
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/CloudAPI/CloudUpload/CloudUpload_TLB.pas
+END

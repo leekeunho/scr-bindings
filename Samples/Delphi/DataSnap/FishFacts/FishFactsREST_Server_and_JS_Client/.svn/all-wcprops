@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client
+END
+FishFactsIndy_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndy_Icon.ico
+END
+DataModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/DataModule.pas
+END
+FishFactsIndy.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndy.dpr
+END
+Unit1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/Unit1.pas
+END
+DataModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/DataModule.dfm
+END
+Unit1.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/Unit1.dfm
+END
+WebModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/WebModule.pas
+END
+FishFactsIndy.res
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndy.res
+END
+FishFactsServerMethods.pas
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsServerMethods.pas
+END
+WebModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/WebModule.dfm
+END
+FishFactsIndyResource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndyResource.rc
+END
+FishFactsIndy.dres
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndy.dres
+END
+FishFactsIndy.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_Server_and_JS_Client/FishFactsIndy.dproj
+END

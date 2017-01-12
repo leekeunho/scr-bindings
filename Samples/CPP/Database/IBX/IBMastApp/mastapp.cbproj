@@ -1,0 +1,396 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{1F2F43B7-2F53-451C-BC8C-8A7DA153F662}</ProjectGuid>
+			<ProjectType>CppVCLApplication</ProjectType>
+			<MainSource>MASTAPP.cpp</MainSource>
+			<Base>True</Base>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<ProjectVersion>13.4</ProjectVersion>
+			<AppType>Application</AppType>
+			<FrameworkType>VCL</FrameworkType>
+			<Platform Condition="'$(Platform)'==''">Win32</Platform>
+			<TargetedPlatforms>1</TargetedPlatforms>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Base)'=='true') or '$(Base_Win32)'!=''">
+			<Base_Win32>true</Base_Win32>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_1)'=='true') or '$(Cfg_1_Win32)'!=''">
+			<Cfg_1_Win32>true</Cfg_1_Win32>
+			<CfgParent>Cfg_1</CfgParent>
+			<Cfg_1>true</Cfg_1>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_2)'=='true') or '$(Cfg_2_Win32)'!=''">
+			<Cfg_2_Win32>true</Cfg_2_Win32>
+			<CfgParent>Cfg_2</CfgParent>
+			<Cfg_2>true</Cfg_2>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<VCL_Custom_Styles>&quot;Amakrits|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\Amakrits.vsf&quot;;&quot;Amethyst Kamri|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\AmethystKamri.vsf&quot;;&quot;Aqua Graphite|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\AquaGraphite.vsf&quot;;&quot;Aqua Light Slate|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\AquaLightSlate.vsf&quot;;&quot;Carbon|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\Carbon.vsf&quot;;&quot;Cobalt XEMedia|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\CobaltXEMedia.vsf&quot;;&quot;Emerald Light Slate|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\EmeraldLightSlate.vsf&quot;;&quot;Golden Graphite|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\GoldenGraphite.vsf&quot;;&quot;Iceberg Classico|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\IcebergClassico.vsf&quot;;&quot;Lavender Classico|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\LavenderClassico.vsf&quot;;&quot;Ruby Graphite|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\RubyGraphite.vsf&quot;;&quot;Sapphire Kamri|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\SapphireKamri.vsf&quot;;&quot;Slate Classico|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\SlateClassico.vsf&quot;;&quot;Smokey Quartz Kamri|VCLSTYLE|$(PUBLIC)\Documents\RAD Studio\9.0\Styles\SmokeyQuartzKamri.vsf&quot;</VCL_Custom_Styles>
+			<UsingDelphiRTL>true</UsingDelphiRTL>
+			<DCC_Namespace>Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;System;Xml;Data;Datasnap;Web;Soap;$(DCC_Namespace)</DCC_Namespace>
+			<VerInfo_Locale>1033</VerInfo_Locale>
+			<VerInfo_Keys>CompanyName=;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+			<LinkPackageStatics>vclx.lib;ibxpress.lib;dsnap.lib</LinkPackageStatics>
+			<LinkPackageImports>rtl.bpi;vcl.bpi;dbrtl.bpi;vcldb.bpi;bdertl.bpi</LinkPackageImports>
+			<PackageImports>bdertl.bpi;vcldb.bpi;dbrtl.bpi;vcl.bpi;rtl.bpi;$(PackageImports)</PackageImports>
+			<ILINK_FullDebugInfo>true</ILINK_FullDebugInfo>
+			<BCC_PCHCache>true</BCC_PCHCache>
+			<ILINK_AppType>Windows</ILINK_AppType>
+			<TASM_Defines>NO_STRICT;USEPACKAGES;$(TASM_Defines)</TASM_Defines>
+			<BRCC_Defines>NO_STRICT;USEPACKAGES;$(BRCC_Defines)</BRCC_Defines>
+			<BCC_IncludePath>$(BDS)\include;$(BDS)\include\vcl;..\..\controls\source;$(BDS)\include\dinkumware;$(BCC_IncludePath)</BCC_IncludePath>
+			<BRCC_IncludePath>$(BDS)\include;$(BDS)\include\vcl;..\..\controls\source;$(BDS)\include\dinkumware;$(BRCC_IncludePath)</BRCC_IncludePath>
+			<BCC_SourceDebuggingOn>true</BCC_SourceDebuggingOn>
+			<DCC_IncludePath>.\;$(BDS)\lib;$(BDS)\lib\obj;$(DCC_IncludePath)</DCC_IncludePath>
+			<UsePackages>true</UsePackages>
+			<TASM_IncludePath>$(BDS)\include;$(BDS)\include\vcl;..\..\controls\source;$(BDS)\include\dinkumware;$(TASM_IncludePath)</TASM_IncludePath>
+			<DCC_UnitSearchPath>.\;$(BDS)\lib;$(BDS)\lib\obj;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+			<BCC_DisableOptimizations>true</BCC_DisableOptimizations>
+			<BCC_GenerateWindowsApp>true</BCC_GenerateWindowsApp>
+			<OutputExt>exe</OutputExt>
+			<TASM_AdditionalSwitches> /w0</TASM_AdditionalSwitches>
+			<TASM_Debugging>Full</TASM_Debugging>
+			<AllPackageLibs>rtl.lib;vcl.lib;dbrtl.lib;vcldb.lib;vclx.lib;bdertl.lib;ibxpress.lib;dsnap.lib</AllPackageLibs>
+			<BCC_UserSuppliedOptions> -Vx -r- -k -Ve</BCC_UserSuppliedOptions>
+			<BCC_Defines>NO_STRICT;$(BCC_Defines)</BCC_Defines>
+			<DCC_CBuilderOutput>JPHNE</DCC_CBuilderOutput>
+			<BCC_InlineFunctionExpansion>false</BCC_InlineFunctionExpansion>
+			<BCC_DebugLineNumbers>true</BCC_DebugLineNumbers>
+			<ILINK_LibraryPath>$(BDS)\lib\obj;$(BDS)\lib;..\..\controls\source;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base_Win32)'!=''">
+			<Icon_MainIcon>C:\Users\Public\Documents\RAD Studio\9.0\Samples\CPP\Database\IBX\IBMastApp\mastapp_Icon.ico</Icon_MainIcon>
+			<DCC_Namespace>Winapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
+			<IncludePath>$(BDSINCLUDE)\windows\vcl;$(IncludePath)</IncludePath>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<BCC_Defines>_DEBUG;$(BCC_Defines);$(BCC_Defines)</BCC_Defines>
+			<ILINK_LibraryPath>$(BDS)\lib\debug;$(ILINK_LibraryPath);$(ILINK_LibraryPath)</ILINK_LibraryPath>
+			<DCC_Define>DEBUG;$(DCC_Define);$(DCC_Define)</DCC_Define>
+			<DCC_AdditionalSwitches> -V</DCC_AdditionalSwitches>
+			<ILINK_DisableIncrementalLinking>true</ILINK_DisableIncrementalLinking>
+			<TASM_DisplaySourceLines>true</TASM_DisplaySourceLines>
+			<DCC_DebugInfoInExe>true</DCC_DebugInfoInExe>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
+			<IntermediateOutputDir>.\$(Platform)\$(Config)</IntermediateOutputDir>
+			<Defines>_DEBUG;$(Defines)</Defines>
+			<FinalOutputDir>.\$(Platform)\$(Config)</FinalOutputDir>
+			<Icon_MainIcon>mastapp_Icon.ico</Icon_MainIcon>
+			<Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<BCC_Defines>NDEBUG;$(BCC_Defines);$(BCC_Defines)</BCC_Defines>
+			<BCC_UserSuppliedOptions> -Vx -r- -k -Ve -r</BCC_UserSuppliedOptions>
+			<BCC_OptimizeForSpeed>true</BCC_OptimizeForSpeed>
+			<IntermediateOutputDir>..\MastApp</IntermediateOutputDir>
+			<DCC_AdditionalSwitches> -$O+</DCC_AdditionalSwitches>
+			<TASM_Debugging>None</TASM_Debugging>
+			<ILINK_LibraryPath>$(BDS)\lib\release;$(ILINK_LibraryPath);$(ILINK_LibraryPath)</ILINK_LibraryPath>
+			<BCC_InlineFunctionExpansion>true</BCC_InlineFunctionExpansion>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2_Win32)'!=''">
+			<Icon_MainIcon>mastapp_Icon.ico</Icon_MainIcon>
+			<Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+		</PropertyGroup>
+		<ItemGroup>
+			<CppCompile Include="about.cpp">
+				<BuildOrder>3</BuildOrder>
+				<Form>AboutBox</Form>
+				<DependentOn>about.h</DependentOn>
+				<BuildOrder>11</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="brcstord.cpp">
+				<BuildOrder>4</BuildOrder>
+				<Form>BrCustOrdForm</Form>
+				<DependentOn>brcstord.h</DependentOn>
+				<BuildOrder>14</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="brparts.cpp">
+				<BuildOrder>5</BuildOrder>
+				<Form>BrPartsForm</Form>
+				<DependentOn>brparts.h</DependentOn>
+				<BuildOrder>13</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="datamod.cpp">
+				<BuildOrder>8</BuildOrder>
+				<Form>MastData</Form>
+				<DependentOn>Datamod.h</DependentOn>
+				<BuildOrder>2</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="edcust.cpp">
+				<BuildOrder>6</BuildOrder>
+				<Form>EdCustForm</Form>
+				<DependentOn>edcust.h</DependentOn>
+				<BuildOrder>12</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="edorders.cpp">
+				<Form>EdOrderForm</Form>
+				<DependentOn>edorders.h</DependentOn>
+				<BuildOrder>7</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="edparts.cpp">
+				<BuildOrder>8</BuildOrder>
+				<Form>EdPartsForm</Form>
+				<DependentOn>edparts.h</DependentOn>
+				<BuildOrder>2</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="main.cpp">
+				<BuildOrder>9</BuildOrder>
+				<Form>MainForm</Form>
+				<DependentOn>main.h</DependentOn>
+				<BuildOrder>1</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="MASTAPP.cpp">
+				<BuildOrder>-1</BuildOrder>
+				<BuildOrder>0</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="pickdate.cpp">
+				<BuildOrder>10</BuildOrder>
+				<Form>BrDateForm</Form>
+				<DependentOn>pickdate.h</DependentOn>
+				<BuildOrder>0</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="pickinvc.cpp">
+				<BuildOrder>3</BuildOrder>
+				<Form>PickOrderNoDlg</Form>
+				<DependentOn>pickinvc.h</DependentOn>
+				<BuildOrder>11</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="qrycust.cpp">
+				<BuildOrder>6</BuildOrder>
+				<Form>QueryCustDlg</Form>
+				<DependentOn>qrycust.h</DependentOn>
+				<BuildOrder>12</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="splash.cpp">
+				<BuildOrder>5</BuildOrder>
+				<Form>SplashForm</Form>
+				<DependentOn>splash.h</DependentOn>
+				<BuildOrder>13</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="srchdlg.cpp">
+				<BuildOrder>4</BuildOrder>
+				<Form>SearchDlg</Form>
+				<DependentOn>srchdlg.h</DependentOn>
+				<BuildOrder>14</BuildOrder>
+			</CppCompile>
+			<FormResources Include="pickinvc.dfm"/>
+			<FormResources Include="pickdate.dfm"/>
+			<FormResources Include="qrycust.dfm"/>
+			<FormResources Include="srchdlg.dfm"/>
+			<FormResources Include="splash.dfm"/>
+			<FormResources Include="main.dfm"/>
+			<FormResources Include="brparts.dfm"/>
+			<FormResources Include="brcstord.dfm"/>
+			<FormResources Include="about.dfm"/>
+			<FormResources Include="datamod.dfm"/>
+			<FormResources Include="edparts.dfm"/>
+			<FormResources Include="edorders.dfm"/>
+			<FormResources Include="edcust.dfm"/>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Cpp.Targets')" Project="$(BDS)\Bin\CodeGear.Cpp.Targets"/>
+		<ProjectExtensions>
+			<Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+			<Borland.ProjectType>CppVCLApplication</Borland.ProjectType>
+			<BorlandProject>
+				<CPlusPlusBuilder.Personality>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1033</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName"/>
+						<VersionInfoKeys Name="FileDescription"/>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Debugging>
+						<Debugging Name="DebugSourceDirs"/>
+					</Debugging>
+					<Parameters>
+						<Parameters Name="RemoteHost"/>
+						<Parameters Name="RemotePath"/>
+						<Parameters Name="RemoteParams"/>
+						<Parameters Name="RemoteLauncher"/>
+						<Parameters Name="UseRemoteLauncher">False</Parameters>
+						<Parameters Name="RemoteCWD"/>
+						<Parameters Name="RemoteDebug">False</Parameters>
+					</Parameters>
+					<ProjectProperties>
+						<ProjectProperties Name="AutoShowDeps">False</ProjectProperties>
+						<ProjectProperties Name="ManagePaths">True</ProjectProperties>
+						<ProjectProperties Name="VerifyPackages">True</ProjectProperties>
+					</ProjectProperties>
+					<Source>
+						<Source Name="MainSource">MASTAPP.cpp</Source>
+					</Source>
+					<Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\bcboffice2k160.bpl">Embarcadero C++Builder Office 2000 Servers Package</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\bcbofficexp160.bpl">Embarcadero C++Builder Office XP Servers Package</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dcloffice2k160.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dclofficexp160.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+					</Excluded_Packages>
+				</CPlusPlusBuilder.Personality>
+				<Platforms>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+				<Deployment>
+					<DeployFile Class="DependencyModule" Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'!='true'" LocalName="$(BDS)\bin\cc32120.dll">
+						<Platform Name="Win32"/>
+					</DeployFile>
+					<DeployFile Class="DependencyModule" Condition="'$(UsingDelphiRTL)'=='true'" LocalName="$(BDS)\bin\borlndmm.dll">
+						<Platform Name="Win32"/>
+					</DeployFile>
+					<DeployFile Class="DebugSymbols" Configuration="Debug" LocalName=".\Win32\Debug\mastapp.tds">
+						<Platform Name="Win32">
+							<RemoteName>mastapp.tds</RemoteName>
+						</Platform>
+					</DeployFile>
+					<DeployFile Class="DependencyModule" Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'=='true'" LocalName="$(BDS)\bin\cc32120mt.dll">
+						<Platform Name="Win32"/>
+					</DeployFile>
+					<DeployFile Class="DependencyModule" Condition="'$(DynamicRTL)'=='true'" LocalName="$(BDS)\Redist\osx32\libcgcrtl.dylib">
+						<Platform Name="OSX32"/>
+					</DeployFile>
+					<DeployFile Class="ProjectOutput" Configuration="Debug" LocalName=".\Win32\Debug\mastapp.exe">
+						<Platform Name="Win32"/>
+					</DeployFile>
+					<DeployFile Class="DependencyModule" Condition="'$(DynamicRTL)'=='true'" LocalName="$(BDS)\Redist\osx32\libcgstl.dylib">
+						<Platform Name="OSX32"/>
+					</DeployFile>
+					<DeployClass Name="ProjectOutput" Required="true">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyPackage" Required="true">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.dylib</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+							<Extensions>.bpl</Extensions>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyModule">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.dylib</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+							<Extensions>.dll;.bpl</Extensions>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="ProjectOSXInfoPList">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="File">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>0</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DebugSymbols">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyFramework">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.framework</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="AdditionalDebugSymbols">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="ProjectOSXResource">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\Resources</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+					</DeployClass>
+					<ProjectRoot Name="$(PROJECTNAME).app" Platform="OSX32"/>
+					<ProjectRoot Name="$(PROJECTNAME)" Platform="Win64"/>
+					<ProjectRoot Name="$(PROJECTNAME)" Platform="Win32"/>
+				</Deployment>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj"/>
+		<Import Condition="Exists('$(MSBuildProjectName).deployproj')" Project="$(MSBuildProjectName).deployproj"/>
+	</Project>

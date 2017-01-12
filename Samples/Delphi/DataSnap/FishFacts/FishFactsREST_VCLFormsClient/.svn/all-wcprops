@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient
+END
+FishFactsDSClient_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FishFactsDSClient_Icon.ico
+END
+ClientModuleUnit_FishFactsIndy.pas
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/ClientModuleUnit_FishFactsIndy.pas
+END
+FishFactsDSClient.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FishFactsDSClient.dpr
+END
+ClientModuleUnit_FishFactsIndy.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/ClientModuleUnit_FishFactsIndy.dfm
+END
+FishFactsDSClient.res
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FishFactsDSClient.res
+END
+FormDSClient.pas
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FormDSClient.pas
+END
+ClientClassesUnit_FishFactsIndy.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/ClientClassesUnit_FishFactsIndy.pas
+END
+FishFactsDSClient.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FishFactsDSClient.dproj
+END
+FormDSClient.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/FishFacts/FishFactsREST_VCLFormsClient/FormDSClient.dfm
+END

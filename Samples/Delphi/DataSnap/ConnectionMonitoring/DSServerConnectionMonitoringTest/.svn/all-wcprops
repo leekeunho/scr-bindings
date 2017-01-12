@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/radstudiodemos/!svn/ver/336/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest
+END
+dsPostBuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/dsPostBuild.bat
+END
+MonitorServerContainerUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/MonitorServerContainerUnit.pas
+END
+MonitorServerMethodsUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/MonitorServerMethodsUnit.pas
+END
+ConnectionMonitoringDemoServer.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/ConnectionMonitoringDemoServer.dpr
+END
+MonitorServerContainerUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/MonitorServerContainerUnit.dfm
+END
+MonitorUIUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/MonitorUIUnit.pas
+END
+ConnectionMonitoringDemoServer.res
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/ConnectionMonitoringDemoServer.res
+END
+MonitorUIUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/MonitorUIUnit.dfm
+END
+ConnectionMonitoringDemoServer.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/ConnectionMonitoringDemoServer.dproj
+END

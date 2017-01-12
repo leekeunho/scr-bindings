@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test
+END
+DelphiDataSnapClientTests.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/DelphiDataSnapClientTests.dproj
+END
+dunit.ini
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/dunit.ini
+END
+TestDM.pas
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/TestDM.pas
+END
+TestDM.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/TestDM.dfm
+END
+XMLHelpers.pas
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/XMLHelpers.pas
+END
+DelphiDataSnapClientTests.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/DelphiDataSnapClientTests.dpr
+END
+TestDSClientProxy.pas
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/TestDSClientProxy.pas
+END
+MyDataSnapClientTests.res
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/MyDataSnapClientTests.res
+END
+TestConsts.pas
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/TestConsts.pas
+END
+DataSnapTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/DataSnapTests.xml
+END
+TestCaseHelper.pas
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/Test/TestCaseHelper.pas
+END

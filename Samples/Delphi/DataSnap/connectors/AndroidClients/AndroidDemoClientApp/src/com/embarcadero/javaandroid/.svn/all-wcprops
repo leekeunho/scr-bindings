@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/377/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid
+END
+TDBXAnsiStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXAnsiStringValue.java
+END
+DSRESTParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTParameter.java
+END
+TDBXUInt16Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXUInt16Value.java
+END
+DSRESTParameterMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTParameterMetaData.java
+END
+DBXDefaultFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXDefaultFormatter.java
+END
+TJSONNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONNumber.java
+END
+TDBXBcdValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXBcdValue.java
+END
+DSCallbackChannelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/377/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSCallbackChannelManager.java
+END
+DSProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSProxy.java
+END
+TJSONFalse.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONFalse.java
+END
+DBXValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXValue.java
+END
+TDBXStreamValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXStreamValue.java
+END
+DSAdminRestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSAdminRestClient.java
+END
+TDBXTimeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXTimeValue.java
+END
+TDBXInt32Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXInt32Value.java
+END
+DSAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSAdmin.java
+END
+TStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TStream.java
+END
+TDBXInt16Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXInt16Value.java
+END
+TDBXTimeStampValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXTimeStampValue.java
+END
+DSRESTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/377/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTConnection.java
+END
+DBXJSONTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXJSONTools.java
+END
+TDBXDoubleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXDoubleValue.java
+END
+DBXCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXCallback.java
+END
+TJSONValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONValue.java
+END
+TDBXDateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXDateValue.java
+END
+DBXDataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXDataTypes.java
+END
+TDBXBooleanValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXBooleanValue.java
+END
+TDBXWideStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXWideStringValue.java
+END
+JSONSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/JSONSerializable.java
+END
+TDBXSingleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXSingleValue.java
+END
+TDBXInt8Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXInt8Value.java
+END
+DSRESTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTCommand.java
+END
+DBXWritableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXWritableValue.java
+END
+TParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TParams.java
+END
+JSONValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/JSONValueType.java
+END
+TDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDataSet.java
+END
+TJSONPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONPair.java
+END
+DBXValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXValueType.java
+END
+DBXParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXParameter.java
+END
+DSRESTSSLFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/377/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTSSLFactory.java
+END
+DSHTTPRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSHTTPRequestType.java
+END
+TDBXReaderValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXReaderValue.java
+END
+TDBXInt64Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXInt64Value.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/Base64.java
+END
+TDBXReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXReader.java
+END
+TJSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONObject.java
+END
+TJSONString.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONString.java
+END
+TDBXStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXStringValue.java
+END
+DSRESTParamDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DSRESTParamDirection.java
+END
+TDBXUInt8Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXUInt8Value.java
+END
+TJSONNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONNull.java
+END
+TableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TableType.java
+END
+TDBXAnsiCharsValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TDBXAnsiCharsValue.java
+END
+DBXException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/377/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXException.java
+END
+TJSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONArray.java
+END
+TJSONTrue.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/TJSONTrue.java
+END
+DBXTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/AndroidClients/AndroidDemoClientApp/src/com/embarcadero/javaandroid/DBXTools.java
+END

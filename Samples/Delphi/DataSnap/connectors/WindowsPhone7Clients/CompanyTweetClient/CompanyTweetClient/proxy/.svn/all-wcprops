@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy
+END
+DBXValueType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXValueType.cs
+END
+DBXParameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXParameter.cs
+END
+DSHTTPRequestType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSHTTPRequestType.cs
+END
+TDBXReaderValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXReaderValue.cs
+END
+TDBXInt64Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXInt64Value.cs
+END
+Base64.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/Base64.cs
+END
+TDBXReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXReader.cs
+END
+TJSONObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONObject.cs
+END
+TJSONString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONString.cs
+END
+TDBXStringValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXStringValue.cs
+END
+DSRESTParamDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSRESTParamDirection.cs
+END
+TDBXUInt8Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXUInt8Value.cs
+END
+TJSONNull.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONNull.cs
+END
+TableType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TableType.cs
+END
+TDBXAnsiCharsValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXAnsiCharsValue.cs
+END
+DBXException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXException.cs
+END
+TJSONArray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONArray.cs
+END
+TJSONTrue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONTrue.cs
+END
+DBXTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXTools.cs
+END
+TDBXAnsiStringValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXAnsiStringValue.cs
+END
+DSRESTParameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSRESTParameter.cs
+END
+TDBXUInt16Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXUInt16Value.cs
+END
+DSRESTParameterMetaData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSRESTParameterMetaData.cs
+END
+DBXDefaultFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXDefaultFormatter.cs
+END
+TJSONNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONNumber.cs
+END
+TDBXBcdValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXBcdValue.cs
+END
+DSCallbackChannelManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSCallbackChannelManager.cs
+END
+DSProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSProxy.cs
+END
+TJSONFalse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONFalse.cs
+END
+UrlUTF8Encoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/UrlUTF8Encoder.cs
+END
+TDBXStreamValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXStreamValue.cs
+END
+DBXValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXValue.cs
+END
+DSAdminRestClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSAdminRestClient.cs
+END
+TDBXTimeValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXTimeValue.cs
+END
+TDBXInt32Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXInt32Value.cs
+END
+DSAdmin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSAdmin.cs
+END
+TStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TStream.cs
+END
+TDBXInt16Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXInt16Value.cs
+END
+TDBXTimeStampValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXTimeStampValue.cs
+END
+DSRESTConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSRESTConnection.cs
+END
+DBXJSONTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXJSONTools.cs
+END
+TDBXDoubleValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXDoubleValue.cs
+END
+DBXCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXCallback.cs
+END
+TJSONValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONValue.cs
+END
+TDBXDateValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXDateValue.cs
+END
+DBXDataTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXDataTypes.cs
+END
+TDBXBooleanValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXBooleanValue.cs
+END
+TDBXWideStringValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXWideStringValue.cs
+END
+JSONSerializable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/JSONSerializable.cs
+END
+TDBXSingleValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXSingleValue.cs
+END
+TDBXInt8Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDBXInt8Value.cs
+END
+DSRESTCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DSRESTCommand.cs
+END
+DBXWritableValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/DBXWritableValue.cs
+END
+TParams.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TParams.cs
+END
+JSONValueType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/JSONValueType.cs
+END
+TDataSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TDataSet.cs
+END
+TJSONPair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/proxy/TJSONPair.cs
+END

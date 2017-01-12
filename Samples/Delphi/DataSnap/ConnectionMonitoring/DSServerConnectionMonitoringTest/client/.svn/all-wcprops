@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/336/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client
+END
+ConnectionMonitoringDemoClient.res
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/ConnectionMonitoringDemoClient.res
+END
+ProxyUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/ProxyUnit.pas
+END
+ConnectionMonitoringDemoClient.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/ConnectionMonitoringDemoClient.dproj
+END
+MonitorClientUIUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/336/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/MonitorClientUIUnit.pas
+END
+TCPCloseSessionHangsClient.res
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/TCPCloseSessionHangsClient.res
+END
+MonitorClientUIUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/336/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/MonitorClientUIUnit.dfm
+END
+ConnectionMonitoringDemoClient.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/335/branches/RadStudio_XE2/Delphi/DataSnap/ConnectionMonitoring/DSServerConnectionMonitoringTest/client/ConnectionMonitoringDemoClient.dpr
+END

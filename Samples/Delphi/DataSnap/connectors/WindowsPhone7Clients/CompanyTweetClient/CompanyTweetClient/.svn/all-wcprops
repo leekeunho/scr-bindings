@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/App.xaml
+END
+MainPage.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/MainPage.xaml
+END
+tweet.wav
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/tweet.wav
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/App.xaml.cs
+END
+MainPage.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/MainPage.xaml.cs
+END
+CTCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/CTCallback.cs
+END
+ctConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/ctConnection.cs
+END
+CompanyTweetClient.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/CompanyTweetClient.csproj.user
+END
+MainTweetPage.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/MainTweetPage.xaml
+END
+UsersList.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/UsersList.xaml
+END
+MainTweetPage.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/MainTweetPage.xaml.cs
+END
+cmd.wav
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/cmd.wav
+END
+ApplicationIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/ApplicationIcon.png
+END
+Settings.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/Settings.xaml
+END
+UsersList.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/UsersList.xaml.cs
+END
+Background.png
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/Background.png
+END
+Settings.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/Settings.xaml.cs
+END
+CTCMDCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/CTCMDCallback.cs
+END
+SplashScreenImage.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/SplashScreenImage.jpg
+END
+CompanyTweetClient.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/WindowsPhone7Clients/CompanyTweetClient/CompanyTweetClient/CompanyTweetClient.csproj
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames
+END
+FrmMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMain.h
+END
+FrmData.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmData.dfm
+END
+FrmMD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMD.cpp
+END
+FrmFancy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames/FrmFancy.cpp
+END
+FrmMD.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMD.h
+END
+FrmFancy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmFancy.h
+END
+FrmMain.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMain.dfm
+END
+FrmData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames/FrmData.cpp
+END
+FramesDemo.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FramesDemo.cbproj
+END
+FramesDemo_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FramesDemo_Icon.ico
+END
+FramesDemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames/FramesDemo.cpp
+END
+FrmData.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmData.h
+END
+FrmMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMain.cpp
+END
+FrmMD.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmMD.dfm
+END
+FrmFancy.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FrmFancy.dfm
+END
+FramesDemo.res
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/Frames/FramesDemo.res
+END

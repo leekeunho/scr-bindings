@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server
+END
+DataSnapTestServer.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/DataSnapTestServer.dproj
+END
+ServerContainerForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ServerContainerForm.pas
+END
+MethodsServerModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/MethodsServerModule.pas
+END
+ParametersServerModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ParametersServerModule.pas
+END
+ServerContainerForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ServerContainerForm.dfm
+END
+DataSnapTestServer_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/DataSnapTestServer_Icon.ico
+END
+MethodsServerModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/252/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/MethodsServerModule.dfm
+END
+ParametersServerModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/252/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ParametersServerModule.dfm
+END
+DataSnapTestServer.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/DataSnapTestServer.dpr
+END
+ProviderServerModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ProviderServerModule.pas
+END
+DataSnapTestServer.res
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/DataSnapTestServer.res
+END
+ProviderServerModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/252/branches/RadStudio_XE2/Delphi/DataSnap/Basic/Server/ProviderServerModule.dfm
+END

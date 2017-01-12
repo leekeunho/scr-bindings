@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/radstudioverins/!svn/ver/13/branches/radstudioxe/svnui
+END
+SvnClientRepoBrowserFrame.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRepoBrowserFrame.dfm
+END
+SvnClientImportFrame.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/5/branches/radstudioxe/svnui/SvnClientImportFrame.dfm
+END
+svnui.dpk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/svnui.dpk
+END
+svnui.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/svnui.dproj
+END
+SvnClientLoginPrompt.pas
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientLoginPrompt.pas
+END
+SvnClientRepoBrowserDialog.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRepoBrowserDialog.dfm
+END
+SvnClientSSLServerTrustPrompt.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientSSLServerTrustPrompt.dfm
+END
+SvnClientRecentComments.pas
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRecentComments.pas
+END
+SvnImages.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnImages.dfm
+END
+SvnClientProjectSelect.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientProjectSelect.dfm
+END
+SvnClientLoginPrompt.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientLoginPrompt.dfm
+END
+SvnClientConflict.pas
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientConflict.pas
+END
+SvnClientCommitFrame.pas
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientCommitFrame.pas
+END
+SvnClientCheckout.pas
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/radstudioverins/!svn/ver/11/branches/radstudioxe/svnui/SvnClientCheckout.pas
+END
+SvnClientRecentComments.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRecentComments.dfm
+END
+RAD Studio Version Insight MPL License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/RAD%20Studio%20Version%20Insight%20MPL%20License.txt
+END
+SvnClientSSLClientCertPrompt.pas
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientSSLClientCertPrompt.pas
+END
+SvnClientLog.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientLog.pas
+END
+SvnClientUpdate.pas
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/radstudioverins/!svn/ver/13/branches/radstudioxe/svnui/SvnClientUpdate.pas
+END
+SvnClientRepoBrowserFrame.pas
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRepoBrowserFrame.pas
+END
+SvnClientConflict.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientConflict.dfm
+END
+svnui.res
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/svnui.res
+END
+SvnUIConst.pas
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnUIConst.pas
+END
+SvnClientImportFrame.pas
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/5/branches/radstudioxe/svnui/SvnClientImportFrame.pas
+END
+SvnClientCommitFrame.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientCommitFrame.dfm
+END
+SvnClientCheckout.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientCheckout.dfm
+END
+SvnClientRepoBrowserDialog.pas
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientRepoBrowserDialog.pas
+END
+SvnClientSSLServerTrustPrompt.pas
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientSSLServerTrustPrompt.pas
+END
+SvnUIUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnUIUtils.pas
+END
+SvnUITypes.pas
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnUITypes.pas
+END
+SvnClientSSLClientCertPrompt.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientSSLClientCertPrompt.dfm
+END
+SvnClientLog.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientLog.dfm
+END
+SvnClientUpdate.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/radstudioverins/!svn/ver/13/branches/radstudioxe/svnui/SvnClientUpdate.dfm
+END
+SvnImages.pas
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnImages.pas
+END
+SvnClientProjectSelect.pas
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudioverins/!svn/ver/4/branches/radstudioxe/svnui/SvnClientProjectSelect.pas
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders
+END
+effects.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/effects.ps.fxc
+END
+composition.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.ps.fxo
+END
+ambient.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/ambient.ps.fxc
+END
+composition.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.dxps
+END
+diffuse.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/diffuse.ps.fxc
+END
+composition.vs.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.vs.fxo
+END
+composition.dxvs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.dxvs
+END
+normal.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/normal.ps.fxc
+END
+specular.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/specular.ps.fxo
+END
+effects.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/effects.ps.fxo
+END
+ambient.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/ambient.ps.fxo
+END
+specular.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/specular.dxps
+END
+effects.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/effects.dxps
+END
+ambient.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/ambient.dxps
+END
+notexture.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/notexture.ps.fxc
+END
+diffuse.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/diffuse.ps.fxo
+END
+diffuse.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/diffuse.dxps
+END
+composition.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.ps.fxc
+END
+normal.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/normal.ps.fxo
+END
+normal.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/normal.dxps
+END
+composition.vs.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/composition.vs.fxc
+END
+notexture.ps.fxo
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/notexture.ps.fxo
+END
+notexture.dxps
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/notexture.dxps
+END
+specular.ps.fxc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/radstudiodemos/!svn/ver/311/branches/RadStudio_XE2/FireMonkey/COLLADAModelViewer/shared/shaders/specular.ps.fxc
+END

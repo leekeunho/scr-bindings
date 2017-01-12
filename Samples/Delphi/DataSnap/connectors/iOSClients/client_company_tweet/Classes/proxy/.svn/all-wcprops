@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/radstudiodemos/!svn/ver/379/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy
+END
+DSRESTConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/379/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRESTConnection.m
+END
+DBXCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXCallback.h
+END
+TDBXStringValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXStringValue.m
+END
+TJSONValueList.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONValueList.m
+END
+DBXDataTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXDataTypes.h
+END
+TJSONTrue.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONTrue.h
+END
+TDBXBooleanValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXBooleanValue.h
+END
+TDBXWideStringValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXWideStringValue.h
+END
+DBXCallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXCallback.m
+END
+TJSONTrue.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONTrue.m
+END
+TDBXBooleanValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXBooleanValue.m
+END
+TDBXWideStringValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXWideStringValue.m
+END
+DBException.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBException.h
+END
+DBException.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBException.m
+END
+DBXParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXParameter.h
+END
+DSAdmin.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSAdmin.h
+END
+TStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TStream.h
+END
+DBXProtocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXProtocols.h
+END
+DBXParameter.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXParameter.m
+END
+TDBXReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXReader.h
+END
+DSAdmin.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSAdmin.m
+END
+TJSONObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONObject.h
+END
+TJSONString.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONString.h
+END
+TStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TStream.m
+END
+TDBXUInt8Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXUInt8Value.h
+END
+DBXJsonTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXJsonTools.h
+END
+TJSONNull.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONNull.h
+END
+TDBXReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXReader.m
+END
+TDBXDoubleValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXDoubleValue.h
+END
+TJSONObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONObject.m
+END
+TJSONString.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONString.m
+END
+TDBXAnsiCharsValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXAnsiCharsValue.h
+END
+TDBXUInt8Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXUInt8Value.m
+END
+TJSONArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONArray.h
+END
+DBXJsonTools.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXJsonTools.m
+END
+TJSONNull.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONNull.m
+END
+TDBXDoubleValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXDoubleValue.m
+END
+TDBXAnsiCharsValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXAnsiCharsValue.m
+END
+TDBXAnsiStringValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXAnsiStringValue.h
+END
+TDBXInt8Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt8Value.h
+END
+TJSONArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONArray.m
+END
+TDBXAnsiStringValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXAnsiStringValue.m
+END
+DSRestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRestParameter.h
+END
+TDBXInt8Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt8Value.m
+END
+TJSONNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONNumber.h
+END
+DSProxyAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSProxyAdditions.h
+END
+TParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TParams.h
+END
+DSProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSProxy.h
+END
+TDataSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDataSet.h
+END
+TJSONPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONPair.h
+END
+DSRestParameter.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRestParameter.m
+END
+TDBXStreamValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXStreamValue.h
+END
+TJSONNumber.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONNumber.m
+END
+DSProxyAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSProxyAdditions.m
+END
+TParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TParams.m
+END
+TDBXInt32Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt32Value.h
+END
+TDataSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDataSet.m
+END
+TJSONPair.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONPair.m
+END
+TDBXStreamValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXStreamValue.m
+END
+TDBXInt16Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt16Value.h
+END
+TDBXTimeStampValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXTimeStampValue.h
+END
+TDBXInt32Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt32Value.m
+END
+TDBXInt16Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt16Value.m
+END
+DSRestParamDirection.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRestParamDirection.h
+END
+TDBXTimeStampValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXTimeStampValue.m
+END
+TJSONValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONValue.h
+END
+TDBXDateValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXDateValue.h
+END
+TJSONValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONValue.m
+END
+TDBXSingleValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXSingleValue.h
+END
+TDBXDateValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXDateValue.m
+END
+TDBXSingleValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXSingleValue.m
+END
+TDBXUInt16Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXUInt16Value.h
+END
+TDBXBcdValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXBcdValue.h
+END
+DSCallbackChannelManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSCallbackChannelManager.h
+END
+DebugTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DebugTests.h
+END
+TDBXUInt16Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXUInt16Value.m
+END
+TDBXBcdValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXBcdValue.m
+END
+DBXValueType.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXValueType.h
+END
+DSCallbackChannelManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSCallbackChannelManager.m
+END
+TDBXTimeValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXTimeValue.h
+END
+DebugTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DebugTests.m
+END
+DBXValueType.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXValueType.m
+END
+TDBXTimeValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXTimeValue.m
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/Base64.h
+END
+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/Base64.m
+END
+DBXConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXConnection.h
+END
+DBXTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXTools.h
+END
+DBXConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXConnection.m
+END
+DBXTools.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXTools.m
+END
+TJSONPairList.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONPairList.h
+END
+DSRESTParameterMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRESTParameterMetaData.h
+END
+DBXDefaultFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXDefaultFormatter.h
+END
+TJSONFalse.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONFalse.h
+END
+DBXValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXValue.h
+END
+TJSONPairList.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONPairList.m
+END
+DSRESTParameterMetaData.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRESTParameterMetaData.m
+END
+DBXDefaultFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXDefaultFormatter.m
+END
+DSAdminRestClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSAdminRestClient.h
+END
+TableTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TableTypes.h
+END
+TJSONFalse.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONFalse.m
+END
+DBXValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DBXValue.m
+END
+TDBXReaderValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXReaderValue.h
+END
+DSAdminRestClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSAdminRestClient.m
+END
+TDBXInt64Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt64Value.h
+END
+DSRESTConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/DSRESTConnection.h
+END
+TDBXStringValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXStringValue.h
+END
+TDBXReaderValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXReaderValue.m
+END
+TJSONValueList.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TJSONValueList.h
+END
+TDBXInt64Value.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/proxy/TDBXInt64Value.m
+END

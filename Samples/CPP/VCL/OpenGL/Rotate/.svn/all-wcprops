@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate
+END
+draw.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/draw.dfm
+END
+draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/draw.h
+END
+glskeleton.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/glskeleton.cbproj
+END
+opengl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/opengl.cpp
+END
+glskeleton_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/glskeleton_Icon.ico
+END
+opengl.res
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/opengl.res
+END
+draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/OpenGL/Rotate/draw.cpp
+END

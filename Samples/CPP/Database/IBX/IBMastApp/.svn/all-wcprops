@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/366/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp
+END
+qrycust.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/qrycust.dfm
+END
+brparts.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brparts.dfm
+END
+mastapp.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/radstudiodemos/!svn/ver/366/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.cbproj
+END
+edparts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edparts.cpp
+END
+Readme.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/286/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/Readme.htm
+END
+mastapp.hpj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.hpj
+END
+mastapp_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp_Icon.ico
+END
+mastapp.hlp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.hlp
+END
+pickinvc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickinvc.cpp
+END
+edorders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edorders.cpp
+END
+main.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/main.dfm
+END
+pickdate.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickdate.dfm
+END
+qrycust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/qrycust.cpp
+END
+srchdlg.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/srchdlg.dfm
+END
+edcust.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edcust.dfm
+END
+brparts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brparts.cpp
+END
+datamod.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/datamod.h
+END
+mastapp.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.rtf
+END
+about.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/about.h
+END
+pickdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickdate.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/main.cpp
+END
+srchdlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/srchdlg.cpp
+END
+edcust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edcust.cpp
+END
+brcstord.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brcstord.h
+END
+datamod.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/datamod.dfm
+END
+about.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/about.dfm
+END
+splash.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/splash.h
+END
+MASTAPP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/MASTAPP.cpp
+END
+brcstord.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brcstord.dfm
+END
+edparts.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edparts.h
+END
+datamod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/datamod.cpp
+END
+about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/about.cpp
+END
+pickinvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickinvc.h
+END
+mastapp.res
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.res
+END
+edorders.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edorders.h
+END
+splash.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/splash.dfm
+END
+qrycust.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/qrycust.h
+END
+brcstord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brcstord.cpp
+END
+brparts.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/brparts.h
+END
+mastapp.GID
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/mastapp.GID
+END
+edparts.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edparts.dfm
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/main.h
+END
+pickdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickdate.h
+END
+pickinvc.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/pickinvc.dfm
+END
+splash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/splash.cpp
+END
+edorders.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/radstudiodemos/!svn/ver/351/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edorders.dfm
+END
+srchdlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/srchdlg.h
+END
+edcust.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/Database/IBX/IBMastApp/edcust.h
+END

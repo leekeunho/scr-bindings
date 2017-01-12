@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/radstudiodemos/!svn/ver/379/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes
+END
+DSProxyExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/DSProxyExt.h
+END
+Settings.xib
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Settings.xib
+END
+AddTweet.xib
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/AddTweet.xib
+END
+FollowingTweets.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowingTweets.h
+END
+DsProxyExt.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/DsProxyExt.m
+END
+menu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/menu.xib
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Settings.h
+END
+FollowingTweets.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowingTweets.m
+END
+Users.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Users.h
+END
+AddTweet.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/AddTweet.h
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/menu.h
+END
+CallBackTweet.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/CallBackTweet.h
+END
+Settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Settings.m
+END
+AddTweet.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/AddTweet.m
+END
+FollowerUsers.xib
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowerUsers.xib
+END
+Users.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Users.m
+END
+Tweets.xib
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Tweets.xib
+END
+IOS2AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/IOS2AppDelegate.h
+END
+DSProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/DSProxy.h
+END
+menu.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/menu.m
+END
+CallBackTweet.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/CallBackTweet.m
+END
+FollowerUsers.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowerUsers.h
+END
+Tweets.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Tweets.h
+END
+DSProxy.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/341/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/DSProxy.m
+END
+IOS2AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/IOS2AppDelegate.m
+END
+FollowerUsers.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowerUsers.m
+END
+Tweets.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/Tweets.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/RootViewController.h
+END
+FollowingTweets.xib
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/FollowingTweets.xib
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/connectors/iOSClients/client_company_tweet/Classes/RootViewController.m
+END

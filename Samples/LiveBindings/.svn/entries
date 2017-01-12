@@ -1,0 +1,107 @@
+10
+
+dir
+419
+https://radstudiodemos.svn.sourceforge.net/svnroot/radstudiodemos/branches/RadStudio_XE2/LiveBindings
+https://radstudiodemos.svn.sourceforge.net/svnroot/radstudiodemos
+
+
+
+2011-12-01T22:07:06.119321Z
+338
+hliu2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2d852169-1407-4610-bcce-47bcd7178f75
+
+exceptions
+dir
+
+oneofeach
+dir
+
+common
+dir
+
+bindlink
+dir
+
+bindexpression
+dir
+
+scopedictionary
+dir
+
+bindgridlink
+dir
+
+binddblink
+dir
+
+console
+dir
+
+BindSamplesGroup.groupproj
+file
+
+
+
+
+2011-09-30T03:05:50.462086Z
+3d0df529fc519cd91842e9de208fcab1
+2011-09-29T22:29:37.445246Z
+317
+jimtierney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14644
+
+LiveBindingsCircleFillColor
+dir
+
+bindedits
+dir
+
+bindlookup
+dir
+
+bindlist
+dir
+
+BOCollection
+dir
+
+collections
+dir
+

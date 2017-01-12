@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Graphex
+END
+graphex_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/graphex_Icon.ico
+END
+graphex.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Graphex/graphex.dpr
+END
+bdiag.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/bdiag.bmp
+END
+Readme.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/Readme.htm
+END
+GraphWin.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/GraphWin.dfm
+END
+dashdot2.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/dashdot2.bmp
+END
+graphex.res
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/graphex.res
+END
+BMPDlg.pas
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Graphex/BMPDlg.pas
+END
+fdiag.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/fdiag.bmp
+END
+solid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/solid.bmp
+END
+fsolid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/fsolid.bmp
+END
+roundrec.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/roundrec.bmp
+END
+pen.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/pen.bmp
+END
+dotted.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/dotted.bmp
+END
+brush.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/brush.bmp
+END
+GraphWin.pas
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/VCL/Graphex/GraphWin.pas
+END
+dashdot.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/dashdot.bmp
+END
+clear.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/clear.bmp
+END
+fvert.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/fvert.bmp
+END
+line.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/line.bmp
+END
+dashed.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/dashed.bmp
+END
+cross.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/cross.bmp
+END
+fclear.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/fclear.bmp
+END
+ellipse.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/ellipse.bmp
+END
+dcross.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/dcross.bmp
+END
+BMPDlg.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/BMPDlg.dfm
+END
+rect.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/rect.bmp
+END
+graphex.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/230/branches/RadStudio_XE2/Delphi/VCL/Graphex/graphex.dproj
+END
+colors.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/colors.bmp
+END
+fhoriz.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/radstudiodemos/!svn/ver/224/branches/RadStudio_XE2/Delphi/VCL/Graphex/fhoriz.bmp
+END

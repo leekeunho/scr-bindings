@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry
+END
+TDBXAnsiStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXAnsiStringValue.java
+END
+JSONValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/JSONValueList.java
+END
+DSRESTParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSRESTParameter.java
+END
+TDBXUInt16Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXUInt16Value.java
+END
+DSRESTParameterMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSRESTParameterMetaData.java
+END
+DBXDefaultFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXDefaultFormatter.java
+END
+TJSONNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONNumber.java
+END
+TDBXBcdValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXBcdValue.java
+END
+DSCallbackChannelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svnroot/radstudiodemos/!svn/ver/282/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSCallbackChannelManager.java
+END
+DSProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSProxy.java
+END
+TJSONFalse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONFalse.java
+END
+URLUTF8Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/URLUTF8Encoder.java
+END
+DBXValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXValue.java
+END
+TDBXStreamValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXStreamValue.java
+END
+DSAdminRestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSAdminRestClient.java
+END
+TDBXTimeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXTimeValue.java
+END
+TDBXInt32Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXInt32Value.java
+END
+TStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TStream.java
+END
+DSAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSAdmin.java
+END
+TDBXInt16Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXInt16Value.java
+END
+JSONPairList.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/JSONPairList.java
+END
+TDBXTimeStampValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXTimeStampValue.java
+END
+DSRESTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSRESTConnection.java
+END
+DBXJSONTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXJSONTools.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/Lock.java
+END
+TDBXDoubleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXDoubleValue.java
+END
+TJSONValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONValue.java
+END
+DBXCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXCallback.java
+END
+DBXDataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXDataTypes.java
+END
+TDBXDateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXDateValue.java
+END
+TDBXBooleanValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXBooleanValue.java
+END
+TDBXWideStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXWideStringValue.java
+END
+JSONSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/JSONSerializable.java
+END
+TDBXSingleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXSingleValue.java
+END
+TDBXInt8Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXInt8Value.java
+END
+DSRESTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSRESTCommand.java
+END
+DBXWritableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXWritableValue.java
+END
+TParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TParams.java
+END
+JSONValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/JSONValueType.java
+END
+TDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDataSet.java
+END
+TJSONPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONPair.java
+END
+DBXValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXValueType.java
+END
+DBXParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXParameter.java
+END
+DSHTTPRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSHTTPRequestType.java
+END
+TDBXReaderValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXReaderValue.java
+END
+TDBXInt64Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXInt64Value.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/Base64.java
+END
+TDBXReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXReader.java
+END
+TJSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONObject.java
+END
+TJSONString.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONString.java
+END
+TDBXStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXStringValue.java
+END
+DSRESTParamDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DSRESTParamDirection.java
+END
+TDBXUInt8Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXUInt8Value.java
+END
+TJSONNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONNull.java
+END
+TableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TableType.java
+END
+TDBXAnsiCharsValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TDBXAnsiCharsValue.java
+END
+DBXException.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXException.java
+END
+TJSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONArray.java
+END
+TJSONTrue.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/TJSONTrue.java
+END
+DBXTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/radstudiodemos/!svn/ver/270/branches/RadStudio_XE2/Delphi/DataSnap/connectors/BlackberryClients/BlackBerryDemoClientApp/src/com/embarcadero/javablackberry/DBXTools.java
+END

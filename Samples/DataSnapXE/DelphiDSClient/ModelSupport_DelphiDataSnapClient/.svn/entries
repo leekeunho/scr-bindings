@@ -1,0 +1,276 @@
+10
+
+dir
+419
+https://radstudiodemos.svn.sourceforge.net/svnroot/radstudiodemos/branches/RadStudio_XE2/DataSnapXE/DelphiDSClient/ModelSupport_DelphiDataSnapClient
+https://radstudiodemos.svn.sourceforge.net/svnroot/radstudiodemos
+
+
+
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2d852169-1407-4610-bcce-47bcd7178f75
+
+DelphiDataSnapClient
+dir
+
+LocationMigration
+dir
+
+DBXDBReaders
+dir
+
+FormDataSet1
+dir
+
+Use Case Diagram1.txvuse
+file
+
+
+
+
+2012-01-04T03:13:50.964365Z
+12002d2503fe062f4c2cb745fc9a83a2
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1686
+
+FormMaintUser
+dir
+
+FormDataSet2
+dir
+
+PerfCounter
+dir
+
+FormDataSet3
+dir
+
+FormDataSet4
+dir
+
+FormDataSet5
+dir
+
+FormDataSet6
+dir
+
+FormDataSet5b
+dir
+
+Customer
+dir
+
+DSClientProxy
+dir
+
+FormJSONSimple
+dir
+
+MainForm
+dir
+
+FormJSONCollection
+dir
+
+default_diagram.tvsconfig
+file
+
+
+
+
+2012-01-04T03:13:50.964365Z
+b1ad270a074a7a5c220a75700032c0f5
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72
+
+MasterForm
+dir
+
+RecError
+dir
+
+Use Case Diagram1_diagram.tvsconfig
+file
+
+
+
+
+2012-01-04T03:13:50.964365Z
+b1ad270a074a7a5c220a75700032c0f5
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72
+
+default.txaPackage
+file
+
+
+
+
+2012-01-04T03:13:50.964365Z
+6f73d0b7684feab36c8bfa8c8594ca7f
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1068
+
+MainFormRB
+dir
+
+FormDBBackup
+dir
+
+DMClient
+dir
+
+BaseObject
+dir
+
+default.txvpck
+file
+
+
+
+
+2012-01-04T03:13:50.964365Z
+2b94cfba14326ec15ab2e5d2ffc1f4e1
+2011-12-20T22:08:15.470559Z
+349
+andreanolanusse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13497
+
+FormBatch
+dir
+
+Location
+dir
+
+Login
+dir
+

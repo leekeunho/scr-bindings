@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient
+END
+DMClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/DMClient.cpp
+END
+CBuilderDataSnapClient.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/CBuilderDataSnapClient.cbproj
+END
+DMClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/DMClient.h
+END
+CBuilderDataSnapClient_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/CBuilderDataSnapClient_Icon.ico
+END
+CBuilderDataSnapClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/CBuilderDataSnapClient.cpp
+END
+ClientModuleUnit1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/ClientModuleUnit1.cpp
+END
+RecError.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/RecError.dfm
+END
+Login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Login.cpp
+END
+Main.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Main.dfm
+END
+DSCClientProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/DSCClientProxy.cpp
+END
+ClientModuleUnit1.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/ClientModuleUnit1.h
+END
+Login.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Login.h
+END
+DSCClientProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/DSCClientProxy.h
+END
+DMClient.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/DMClient.dfm
+END
+RecError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/RecError.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Main.cpp
+END
+CBuilderDataSnapClient.rc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/CBuilderDataSnapClient.rc
+END
+RecError.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/RecError.h
+END
+ClientModuleUnit1.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/ClientModuleUnit1.dfm
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Main.h
+END
+Login.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/349/branches/RadStudio_XE2/DataSnapXE/CBuilderDSClient/Login.dfm
+END

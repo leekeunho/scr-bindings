@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.MainForm" Type="System.String" Value="MainForm" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Login" Type="System.String" Value="Login" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.RecError" Type="System.String" Value="RecError" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DMClient" Type="System.String" Value="DMClient" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Customer" Type="System.String" Value="Customer" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DSClientProxy" Type="System.String" Value="DSClientProxy" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DelphiDataSnapClient" Type="System.String" Value="DelphiDataSnapClient" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormBatch" Type="System.String" Value="FormBatch" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DBXDBReaders" Type="System.String" Value="DBXDBReaders" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet1" Type="System.String" Value="FormDataSet1" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet2" Type="System.String" Value="FormDataSet2" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet3" Type="System.String" Value="FormDataSet3" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet4" Type="System.String" Value="FormDataSet4" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet5" Type="System.String" Value="FormDataSet5" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet5b" Type="System.String" Value="FormDataSet5b" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDataSet6" Type="System.String" Value="FormDataSet6" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormDBBackup" Type="System.String" Value="FormDBBackup" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormJSONCollection" Type="System.String" Value="FormJSONCollection" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormJSONSimple" Type="System.String" Value="FormJSONSimple" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormMaintUser" Type="System.String" Value="FormMaintUser" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Location" Type="System.String" Value="Location" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.LocationMigration" Type="System.String" Value="LocationMigration" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MainFormRB" Type="System.String" Value="MainFormRB" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MasterForm" Type="System.String" Value="MasterForm" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.PerfCounter" Type="System.String" Value="PerfCounter" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.BaseObject" Type="System.String" Value="BaseObject" Category="General" IsBrowsable="False" />
+</TgConfig>

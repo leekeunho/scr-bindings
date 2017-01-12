@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls
+END
+mainfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/mainfrm.h
+END
+rootedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/rootedit.h
+END
+ShellControls.groupproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/ShellControls.groupproj
+END
+bcbshlctrls.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/bcbshlctrls.cbproj
+END
+Readme.htm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/Readme.htm
+END
+make.proj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/make.proj
+END
+bcbshlctrls_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/bcbshlctrls_Icon.ico
+END
+bcbshlctrls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/bcbshlctrls.cpp
+END
+shellreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/shellreg.cpp
+END
+shellconsts.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shellconsts.h
+END
+shelldemo.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shelldemo.cbproj
+END
+shellreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shellreg.h
+END
+bcbshlctrls.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/bcbshlctrls.res
+END
+ShellDemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/ShellDemo.cpp
+END
+shelldemo_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shelldemo_Icon.ico
+END
+mainfrm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/mainfrm.dfm
+END
+rootedit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/rootedit.dfm
+END
+dclshlctrls.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/294/branches/RadStudio_XE2/CPP/VCL/ShellControls/dclshlctrls.cbproj
+END
+shellctrls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/shellctrls.cpp
+END
+dclshlctrls_Icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/dclshlctrls_Icon.ico
+END
+dclshlctrls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/dclshlctrls.cpp
+END
+shelldemo.res
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shelldemo.res
+END
+shellctrls.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shellctrls.h
+END
+dclshlctrls.res
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/dclshlctrls.res
+END
+mainfrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/mainfrm.cpp
+END
+rootedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/CPP/VCL/ShellControls/rootedit.cpp
+END
+shelldemo_Icon1.ico
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/radstudiodemos/!svn/ver/223/branches/RadStudio_XE2/CPP/VCL/ShellControls/shelldemo_Icon1.ico
+END

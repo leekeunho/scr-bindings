@@ -1,0 +1,97 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<Import Condition="Exists('$(BDS)\bin\CodeGear.Deployment.targets')" Project="$(BDS)\bin\CodeGear.Deployment.targets"/>
+		<ProjectExtensions>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+		<ItemGroup Condition="'$(Platform)'=='OSX32'">
+			<DeployFile Condition="'$(Config)'=='Debug'" Include="$(BDS)\Redist\OSX32\bplrtl160.dylib">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>bplrtl160.dylib</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+				<Required>True</Required>
+			</DeployFile>
+			<DeployFile Condition="'$(Config)'=='Debug'" Include=".\OSX32\Debug\RegExpressionDemo">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>RegExpressionDemo</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+				<Required>True</Required>
+			</DeployFile>
+			<DeployFile Condition="'$(Config)'=='Debug'" Include=".\OSX32\Debug\RegExpressionDemo.icns">
+				<RemoteDir>RegExpressionDemo.app\Contents\Resources\</RemoteDir>
+				<RemoteName>RegExpressionDemo.icns</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(Config)'=='Debug'" Include=".\OSX32\Debug\RegExpressionDemo.info.plist">
+				<RemoteDir>RegExpressionDemo.app\Contents\</RemoteDir>
+				<RemoteName>Info.plist</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(DynamicRTL)'=='true'" Include="$(BDS)\Redist\osx32\libcgcrtl.dylib">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>libcgcrtl.dylib</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Include="$(BDS)\Redist\osx32\libcgunwind.1.0.dylib">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>libcgunwind.1.0.dylib</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(Config)'=='Debug'" Include=".\OSX32\Debug\RegExpressionDemo.tds">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>RegExpressionDemo.tds</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(Config)'=='Debug'" Include="$(BDS)\Redist\OSX32\bplfmx161.dylib">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>bplfmx161.dylib</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+				<Required>True</Required>
+			</DeployFile>
+			<DeployFile Condition="'$(DynamicRTL)'=='true'" Include="$(BDS)\Redist\osx32\libcgstl.dylib">
+				<RemoteDir>RegExpressionDemo.app\Contents\MacOS\</RemoteDir>
+				<RemoteName>libcgstl.dylib</RemoteName>
+				<Operation>1</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+		</ItemGroup>
+		<ItemGroup Condition="'$(Platform)'=='Win32'">
+			<DeployFile Condition="'$(UsingDelphiRTL)'=='true'" Include="$(BDS)\bin\borlndmm.dll">
+				<RemoteDir>RegExpressionDemo\</RemoteDir>
+				<RemoteName>borlndmm.dll</RemoteName>
+				<Operation>0</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'!='true'" Include="$(BDS)\bin\cc32120.dll">
+				<RemoteDir>RegExpressionDemo\</RemoteDir>
+				<RemoteName>cc32120.dll</RemoteName>
+				<Operation>0</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+			<DeployFile Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'=='true'" Include="$(BDS)\bin\cc32120mt.dll">
+				<RemoteDir>RegExpressionDemo\</RemoteDir>
+				<RemoteName>cc32120mt.dll</RemoteName>
+				<Operation>0</Operation>
+				<LocalCommand/>
+				<RemoteCommand/>
+			</DeployFile>
+		</ItemGroup>
+	</Project>

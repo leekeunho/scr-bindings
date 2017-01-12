@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring
+END
+HWCServerMonitorUI.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCServerMonitorUI.dfm
+END
+HWCDBXClientMonitorUI.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCDBXClientMonitorUI.dfm
+END
+HWCRESTClientMonitorUI.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCRESTClientMonitorUI.dfm
+END
+HWCDBXClientMonitorProject.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCDBXClientMonitorProject.dproj
+END
+HWCRESTClientMonitorProject.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCRESTClientMonitorProject.dproj
+END
+DataSnapNewFeatures.res
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/DataSnapNewFeatures.res
+END
+ServerMethodsUnit1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/ServerMethodsUnit1.pas
+END
+MonitorHWCServer.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/MonitorHWCServer.dproj
+END
+ServerContainerUnit1.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/ServerContainerUnit1.dfm
+END
+HWCServerMonitorUI.pas
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCServerMonitorUI.pas
+END
+dsPostBuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/dsPostBuild.bat
+END
+HWCDBXClientMonitorProject.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCDBXClientMonitorProject.dpr
+END
+HWCRESTClientMonitorProject.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCRESTClientMonitorProject.dpr
+END
+MonitorHWCServer.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/MonitorHWCServer.dpr
+END
+HWCRESTClientMonitorProject.res
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCRESTClientMonitorProject.res
+END
+HWCDBXClientMonitorProject.res
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCDBXClientMonitorProject.res
+END
+HWCRESTClientMonitorUI.pas
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCRESTClientMonitorUI.pas
+END
+HWCDBXClientMonitorUI.pas
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/HWCDBXClientMonitorUI.pas
+END
+MonitorHWCServer.res
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/MonitorHWCServer.res
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/radstudiodemos/!svn/ver/318/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/README.txt
+END
+ServerContainerUnit1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/331/branches/RadStudio_XE2/Delphi/DataSnap/HeavyweightCallbackMonitoring/ServerContainerUnit1.pas
+END

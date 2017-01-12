@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation
+END
+CLLocation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLLocation.inc
+END
+CLError.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLError.inc
+END
+CLLocationManagerDelegate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLLocationManagerDelegate.inc
+END
+CLHeading.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLHeading.inc
+END
+CLErrorDomain.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLErrorDomain.inc
+END
+CoreLocation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CoreLocation.inc
+END
+CLLocationManager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLLocationManager.inc
+END
+CLRegion.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/CLRegion.inc
+END
+AnonIncludeClassDefinitionsCorelocation.inc
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/radstudiodemos/!svn/ver/337/branches/RadStudio_XE2/FireMonkey/iosdemos/FMX_GPS/corelocation/AnonIncludeClassDefinitionsCorelocation.inc
+END
